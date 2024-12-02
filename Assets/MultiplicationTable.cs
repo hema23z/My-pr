@@ -10,6 +10,7 @@ public class NewEmptyCSharpScript : MonoBehaviour
            for (int x =1; x <= 10; x++){
             int sum = Multiply(5, x);
             Debug.Log(sum);
+            
            }
            
     }
